@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @baynana
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, Lua
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Code 54% faster with GitHub Copilot
 
 <!---
 baynana/baynana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
